@@ -210,7 +210,7 @@ input[type=checkbox].w3-check:disabled+.w3-validate,input[type=radio].w3-radio:d
 .w3-padding-4{padding-top:4px!important;padding-bottom:4px!important}
 .w3-padding-8{padding-top:8px!important;padding-bottom:8px!important}
 .w3-padding-12{padding-top:12px!important;padding-bottom:12px!important}
-.w3-padding-16{padding-top:8px!important;padding-bottom:8px!important}
+.w3-padding-16{padding-top:8px!important;padding-bottom:4px!important}
 .w3-padding-24{padding-top:24px!important;padding-bottom:24px!important}
 .w3-padding-32{padding-top:32px!important;padding-bottom:32px!important}
 .w3-padding-48{padding-top:48px!important;padding-bottom:48px!important}
